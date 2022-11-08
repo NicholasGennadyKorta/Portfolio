@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 910f081d5331f9f4e8247effdd1fad6d, type: 3}
+  m_Name: DungeonGeneratorProfile_Issac_Main
+  m_EditorClassIdentifier: 
+  modules:
+  - uid: mission
+    viewportName: Mission Graph
+    viewportType: nodeGraph
+    nodeDatas:
+    - GUID: 171f9a4f-8867-4393-95f0-03c01192a146
+      typeName: DungeonGenerator.Base.DungeonGeneratorNodeTransit
+      nodeEffectTypeName: DungeonGenerator.Base.DungeonGeneratorNodeEffectBaseTransit
+      nodeEffectTypeData: '{"transitType":0}'
+      position: {x: 369, y: 259}
+    - GUID: 983ce623-5302-4098-8580-45c30d8b8a1b
+      typeName: DungeonGenerator.Issac.DungeonGeneratorNodeIssacGenerate
+      nodeEffectTypeName: DungeonGenerator.Issac.DungeonGeneratorNodeEffectIssacGenerate
+      nodeEffectTypeData: '{"roomAmountMinMax":{"x":5000.0,"y":5000.0},"endRoomAmountMinMax":{"x":5.0,"y":999.0}}'
+      position: {x: 490, y: 259}
+    nodeLinkDatas:
+    - inputNodeGUID: 983ce623-5302-4098-8580-45c30d8b8a1b
+      outputNodeGUID: 171f9a4f-8867-4393-95f0-03c01192a146
+  - uid: data
+    viewportName: Data View
+    viewportType: gui
+    nodeDatas: []
+    nodeLinkDatas: []
+  bFailed: 1

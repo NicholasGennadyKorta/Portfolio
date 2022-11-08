@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="NarratorToolbar" style="background-color: rgb(60, 60, 60); height: 23px; width: 100%; position: absolute; padding-right: 350px; padding-left: 0; right: auto;">
+        <ui:Label text="File Name" display-tooltip-when-elided="true" name="FileNameLabel" style="-unity-text-align: middle-left; height: 100%; width: 300px; -unity-font-style: bold-and-italic; left: 5px;" />
+        <ui:Button text="S" display-tooltip-when-elided="true" name="SaveButton" style="position: absolute; right: 350px; top: 1px;" />
+        <ui:Button text="L" display-tooltip-when-elided="true" name="LoadButton" style="position: absolute; right: 375px; top: 1px;" />
+        <ui:Button text="Generate" display-tooltip-when-elided="true" name="GenerateButton" style="position: absolute; right: 399px; top: 1px;" />
+    </ui:VisualElement>
+</ui:UXML>
