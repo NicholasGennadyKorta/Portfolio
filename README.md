@@ -11,7 +11,7 @@
 </p>
 <ul>
 <li>Arduino mini used for microcontroller.</li>
-<li>MPU-6050 sensor used to calculate orientation of device. Also used to calculate X,Y and Z velocity of users body</li>
+<li>MPU-6050 sensor used to calculate orientation of device. Also used to calculate X,Y and Z velocity and acceleration of users body</li>
 <li>HC-06 for bluetooth support.</li>
 <li>Microcontroller programed in C using Arduino Studio IDE.</li>
 </ul>
