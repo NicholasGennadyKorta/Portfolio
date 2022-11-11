@@ -32,9 +32,10 @@
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h4>Character components</h4>
 <p>
 Character input, stride/oritation movement components. More optimized than blendspaces and simpler for animators as well. Best for stylized games where       motion does not need to look realistic.
-<h4>3 modes.</h4> 
+3 modes. 
 <ul>
 <li>1 animation (good for robot walkers that can twist whole body around).</li>
 <li>2 animation (forward / back).</li>
