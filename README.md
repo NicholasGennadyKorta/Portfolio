@@ -19,7 +19,7 @@
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20hardware.gif" width=300 height=300>
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20Unity.gif" width=300 height=300>
 
-<h3 align = "end">Unreal ECS/ DOTS</h3>
+<h3 align = "justify">Unreal ECS/ DOTS</h3>
 <ul>
 <li>Arduino mini used for microcontroller.</li>
 <li>MPU-6050 sensor used to calculate orientation of device.</li>
