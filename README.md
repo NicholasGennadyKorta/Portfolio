@@ -40,7 +40,7 @@ Character input, stride/oritation movement components. More optimized than blend
 <li>1 animation (good for robot walkers that can twist whole body around).</li>
 <li>2 animation (forward / back).</li>
 <li>4 animation (forward / back / left / right).</li>
-<ul>
+</ul>
 </p>
 
 https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
