@@ -4,7 +4,7 @@
   Code only provided for portfollio and not full projects.
 </p>
 
-<h2>VR Hip-Tracker Prototype</h2>
+<h2><font color = "blue">VR Hip-Tracker Prototype</h2>>/font>
 <p>
   Device to deterimne which direction user is facing so VR movement can be based on hip direction rather than headset direction.
   This allows more realistic movement in VR space. Device connects to app using serial communication.
