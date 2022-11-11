@@ -4,7 +4,7 @@
   Code only provided for portfollio and not full projects.
 </p>
 
-<h3>VR Hip-Tracker Prototype</h3>
+<h2>VR Hip-Tracker Prototype</h2>
 <p>
   Device to deterimne which direction user is facing so VR movement can be based on hip direction rather than headset direction.
   This allows more realistic movement in VR space. Device connects to app using serial communication.
@@ -19,7 +19,7 @@
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20Unity.gif" width=300 height=300>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3>Unreal ECS/ DOTS</h3>
+<h2>Unreal ECS/ DOTS</h2>
 <ul>
 <li>Uses one array per component method.</li>
 <li>Prioritizes performance but can be wasteful in memory.</li>
@@ -45,7 +45,7 @@ Character input, stride/oritation movement components. More optimized than blend
 
 https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
 
-<h3>Dungeon Generator</h3>
+<h2>Dungeon Generator</h2>
 
 <h4>Unreal : Isscac profile (Based on binding of issac)</h4>
 
