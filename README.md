@@ -1,6 +1,5 @@
 # Portfollio
 
-<h3>VR Hip-Tracker Prototype</h3>
 <p>
   Code only provided for portfollio and not full projects.
 </p>
