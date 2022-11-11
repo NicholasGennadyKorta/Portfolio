@@ -49,13 +49,14 @@ https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-9
 <h2>Narrator</h2>
 
 <h4>Scripting language / Editor</h4>
-<p>
-Can auto translate using Google Cloud API. 
-</p>
 
 https://user-images.githubusercontent.com/8712701/201438578-e5bc0f24-ad16-4e69-92fc-a0f8747cbf1f.mp4
 
 <h4>Localization</h4>
+<p>
+Can auto translate using Google Cloud API.
+Explort/Import TSV / JSON files for outsourced translations.
+</p>
 
 https://user-images.githubusercontent.com/8712701/201443326-429256ac-f071-44e1-8f17-fdc28b1b3c29.mp4
 
