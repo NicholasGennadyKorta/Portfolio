@@ -1,6 +1,6 @@
 # Portfollio
 
-<h2>VR Hip-Tracker Prototype</h2>
+<h3>VR Hip-Tracker Prototype</h3>
 <p>
   Device to deterimne which direction user is facing so VR movement can be based on hip direction rather than headset direction.
   This allows more realistic movement in VR space. Device connects to app using serial communication.
