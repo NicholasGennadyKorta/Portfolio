@@ -6,7 +6,7 @@
   This allows more realistic movement in VR space. Device connects to app using serial communication.
 </p>
 <ul>
-  <li>Arudio mini used for microcontroller.</li>
+  <li>Arduino mini used for microcontroller.</li>
 <li>MPU-6050 sensor used to calculate orientation of device.</li>
 <li>HC-06 for bluetooth support.</li>
 <li>Microcontroller programed in C using Arduino Studio IDE.</li>
