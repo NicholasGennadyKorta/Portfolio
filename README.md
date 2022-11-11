@@ -28,5 +28,4 @@
 <li>Unreal wrapper using Unreal API.</li>
 <li>Allow creation of entities in blueprints and ability to modify its data.</li>
 </ul>
-<p><img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20hardware.gif" width=300 height=300></p>
-<p><img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20Unity.gif" width=300 height=300></p>
+<p><img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300></p>
