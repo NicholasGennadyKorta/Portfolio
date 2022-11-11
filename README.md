@@ -10,5 +10,5 @@
 <li>MPU-6050 sensor used to calculate orientation of device.</li>
 <li>HC-06 for bluetooth support.</li>
 </ul>
-<p><img tsrc="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/VR%20hip-tracker%20Ptototype%20hardware.gif" width=200 height=200></p>
+<p><img alt ="gif" tsrc="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/VR%20hip-tracker%20Ptototype%20hardware.gif" width=200 height=200></p>
 
