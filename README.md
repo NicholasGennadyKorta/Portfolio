@@ -2,4 +2,4 @@
 
 VR HipTracker Prototype
 
-![HipTrackerUnity](https://user-images.githubusercontent.com/8712701/201394189-22b46e76-3088-40ca-a732-5ee0b82efe75.gif)
+![HipTrackerHardware](https://user-images.githubusercontent.com/8712701/201396671-93228c80-9ff1-4317-bb2e-4ce3c6358971.gif)
