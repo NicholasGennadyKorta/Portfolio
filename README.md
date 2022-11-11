@@ -30,12 +30,8 @@
 <li>Actors can be associated with one or more entities.</li>  
 </ul>
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300>
-
-
-
-
-
-https://user-images.githubusercontent.com/8712701/201413965-615c0403-409b-4716-b149-27458c83acbe.mp4
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
 
 
 
