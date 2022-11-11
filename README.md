@@ -27,5 +27,6 @@
 <li>Base coded in C++.</li>
 <li>Unreal wrapper using Unreal API.</li>
 <li>Allow creation of entities in blueprints and ability to modify its data.</li>
+<li>Actors can be associated with one or more entities.</li>  
 </ul>
 <p><img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300></p>
