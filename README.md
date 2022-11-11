@@ -29,9 +29,9 @@
 <li>Allow creation of entities in blueprints and ability to modify its data.</li>
 <li>Actors can be associated with one or more entities.</li>  
 </ul>
+<h4>Movement stress test</h4>
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 <h4>ECS / DOTS Character moudle</h4>
 <p>
 Character input, stride/oritation movement components. More optimized than blendspaces and simpler for animators as well. Best for stylized games where       motion does not need to look realistic.
