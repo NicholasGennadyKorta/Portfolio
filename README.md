@@ -32,6 +32,10 @@
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/Unreal%20ECS%20Movement%20Test.gif" width=300 height=300>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<p>
+  Character input, stride and oritation movement components.
+</p>
+
 https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
 
 
