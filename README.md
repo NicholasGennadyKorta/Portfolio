@@ -33,7 +33,13 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p>
-  Character input, stride/oritation movement components.
+Character input, stride/oritation movement components. More optimized than blendspaces and simpler for animators as well. Best for stylized games where       motion does not need to look realistic.
+<h4>3 modes.</h4> 
+<ul>
+<li>1 animation (good for robot walkers that can twist whole body around).</li>
+<li>2 animation (forward / back).</li>
+<li>4 animation (forward / back / left / right).</li>
+<ul>
 </p>
 
 https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
