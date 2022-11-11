@@ -45,5 +45,22 @@ Character input, stride/oritation movement components. More optimized than blend
 
 https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-90c3-21c73e5f0d30.mp4
 
+<h3>Dungeon Generator</h3>
+<p>
+  Device to deterimne which direction user is facing so VR movement can be based on hip direction rather than headset direction.
+  This allows more realistic movement in VR space. Device connects to app using serial communication.
+</p>
+<ul>
+<li>Arduino mini used for microcontroller.</li>
+<li>MPU-6050 sensor used to calculate orientation of device. Also used to calculate X,Y and Z velocity and acceleration of users body</li>
+<li>HC-06 for bluetooth support.</li>
+<li>Microcontroller programed in C using Arduino Studio IDE.</li>
+</ul>
+
+<h4>Unreal : Isscal profile (Based on binding of issac)</h4>
+
+https://user-images.githubusercontent.com/8712701/201423436-f66f6f53-f14f-4241-ae72-487d3c97d0a3.mp4
+
+
 
 
