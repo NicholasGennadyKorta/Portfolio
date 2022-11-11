@@ -34,8 +34,9 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4>ECS / DOTS Character moudle</h4>
 <p>
-Character input, stride/oritation movement components. More optimized than blendspaces and simpler for animators as well. Best for stylized games where       motion does not need to look realistic.
+Character input, stride/oritation movement components. More optimized than blendspaces and simpler for animators as well. Best for stylized games where motion does not need to look realistic.
 3 modes. 
+</p>
 <ul>
 <li>1 animation (good for robot walkers that can twist whole body around).</li>
 <li>2 animation (forward / back).</li>
@@ -48,12 +49,16 @@ https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-9
 <h2>Narrator</h2>
 
 <h4>Scripting language / Editor</h4>
+<p>
+Can auto translate using Google Cloud API. 
+</p>
 
 https://user-images.githubusercontent.com/8712701/201438578-e5bc0f24-ad16-4e69-92fc-a0f8747cbf1f.mp4
 
 <h4>Localization</h4>
 
-https://user-images.githubusercontent.com/8712701/201442880-94b8a417-c1a1-4933-9524-cf75267b1811.mp4
+https://user-images.githubusercontent.com/8712701/201443326-429256ac-f071-44e1-8f17-fdc28b1b3c29.mp4
+
 
 <h2>Dungeon Generator</h2>
 
