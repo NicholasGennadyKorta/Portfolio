@@ -79,8 +79,13 @@ https://user-images.githubusercontent.com/8712701/201434391-1fb4f523-8c65-4c28-9
 https://user-images.githubusercontent.com/8712701/201435581-de374876-f92f-4b34-9bcd-11f249eeac6b.mp4
 
 <h2>Utility AI (Boar example)</h2>
+<h4>Runtime</h4>
 
 https://user-images.githubusercontent.com/8712701/201448296-002afc0c-da97-4a2f-b477-b8ee9dc26dee.mp4
+
+<h4>Editor</h4>
+
+https://user-images.githubusercontent.com/8712701/201449825-c4539465-9227-4a7d-825d-928686ceb076.mp4
 
 
 <h2>Astro Physics</h2>
