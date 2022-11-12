@@ -65,6 +65,10 @@ https://user-images.githubusercontent.com/8712701/201443326-429256ac-f071-44e1-8
 https://user-images.githubusercontent.com/8712701/201444480-6e791484-ecc8-4dba-93d5-688a1e0a2e53.mp4
 
 <h2>Dungeon Generator</h2>
+<ul>
+<li>Profile system using polymorphism to define different types of generators.</li>
+<li>Node editor to control generation of dungeons. User creates nodes that are linked to a profile type.</li>
+</ul>
 
 <h4>Unreal : Isscac profile (Based on binding of issac)</h4>
 
