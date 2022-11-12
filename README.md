@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/8712701/201423436-f66f6f53-f14f-4241-a
 
 https://user-images.githubusercontent.com/8712701/201434391-1fb4f523-8c65-4c28-9fd1-815cf0e537c9.mp4
 
-<h4>Unity : Walker profile (Based on binding of issac)</h4>
+<h4>Unity : Walker profile</h4>
 
 https://user-images.githubusercontent.com/8712701/201435581-de374876-f92f-4b34-9bcd-11f249eeac6b.mp4
 
