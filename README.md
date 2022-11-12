@@ -48,6 +48,15 @@ https://user-images.githubusercontent.com/8712701/201415326-6129ec2c-a738-4337-9
 
 <h2>Narrator</h2>
 
+<ul>
+<li>Tool for visual novel games, dialogue, quests and events.</li>
+<li>Runs on custom scripting language. Multiple scripts can run at once.</li>
+<li>Editor to write, debug and simulate scripts.</li>
+<li>Localization to support different cultures. Allow use Google translate cloud API to auto translate text. </li>
+Export and import texts in Tsv and JSON file formats to for outsourced translation services.
+<li>Inherit Class to render UI and bind it to a running script to receive events and text.</li>
+</ul>
+
 <h4>Scripting language / Editor</h4>
 
 https://user-images.githubusercontent.com/8712701/201438578-e5bc0f24-ad16-4e69-92fc-a0f8747cbf1f.mp4
