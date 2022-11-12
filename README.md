@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/8712701/201449825-c4539465-9227-4a7d-8
 <li>Table editor to easily load in data.</li>
 <li>64-bit precision to support small area of simulation to solar system scale.</li>
 <li>Two separate systems depending on use case.</li>
-</ul>
+<ul>
 <li>Newtons universal law universal gravity to support realistic simulation.</li>
 <li>Kepler’s law of planetary motion for use of fixed simulation based on time input.</li>
 </ul>
