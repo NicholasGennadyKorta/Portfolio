@@ -1,6 +1,6 @@
 # Disclaimer
 wayfarerGameDev is me but my work name for freelance and youtube channel.
-That is why that is under contributors.
+That is why that is under contributors as its my main github account.
 Github link
 https://github.com/wayfarerGameDev/
 
