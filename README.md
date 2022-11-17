@@ -1,3 +1,9 @@
+# Disclaimer
+wayfarerGameDev is me but my work name for freelance and youtube channel.
+That is why that is under contributors.
+Github link
+https://github.com/wayfarerGameDev/
+
 # Linkedln Assessments
 ![C++Assesment](https://user-images.githubusercontent.com/8712701/202349448-41a0f608-432c-4035-a28c-ab3db9f61a45.png)
 ![C#Assesment](https://user-images.githubusercontent.com/8712701/202349460-82370e18-6b3b-49a9-8ff7-f58167713dd7.png)
