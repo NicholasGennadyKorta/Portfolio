@@ -20,6 +20,7 @@ www.linkedin.com/in/nicholas-geanndy-korta
 <li>MPU-6050 sensor used to calculate orientation of device. Also used to calculate X,Y and Z velocity and acceleration of users body</li>
 <li>HC-06 for bluetooth support.</li>
 <li>Microcontroller programed in C using Arduino Studio IDE.</li>
+<li>Unity used for testing with serial and device system in C# for communication with tracker.</li>
 </ul>
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20hardware.gif" width=300 height=300>
 <img align ="left" alt="gif" src="https://github.com/NicholasGennadyKorta/Portfollio/blob/main/README_FILES/VR%20hip-tracker%20Ptototype%20Unity.gif" width=300 height=300>
