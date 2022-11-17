@@ -7,7 +7,8 @@ https://github.com/wayfarerGameDev/
 ![C++Assesment](https://user-images.githubusercontent.com/8712701/202349448-41a0f608-432c-4035-a28c-ab3db9f61a45.png)
 ![C#Assesment](https://user-images.githubusercontent.com/8712701/202349460-82370e18-6b3b-49a9-8ff7-f58167713dd7.png)
 ![UnityAssesment](https://user-images.githubusercontent.com/8712701/202349465-5d8b61fa-6f0c-401a-bf0b-3c87f12a7dc7.png)
-![OOPAssessment](https://user-images.githubusercontent.com/8712701/202354596-84f4e3b1-4c44-4898-abb7-c4dc9d25f0a1.png)
+![OOPAssessment](https://user-images.githubusercontent.com/8712701/202354799-e5a42e4a-028c-459a-bd99-a501416320cd.png)
+
 www.linkedin.com/in/nicholas-geanndy-korta
 
 # Portfollio
