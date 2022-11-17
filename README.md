@@ -7,7 +7,7 @@ www.linkedin.com/in/nicholas-geanndy-korta
 # Portfollio
 
 <p>
-  Code only provided for portfollio and not full projects.
+  Code only provided for portfollio and not full projects. Not all projects have code provided for perpriority reasons.
 </p>
 
 <h2>VR Hip-Tracker Prototype</h2></font>
